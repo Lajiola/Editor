@@ -1,0 +1,5 @@
+/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/HexBinCharEditor.dir
+/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/HexBinCharEditor_autogen_timestamp_deps.dir
+/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/HexBinCharEditor_autogen.dir

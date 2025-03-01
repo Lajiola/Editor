@@ -1,0 +1,27 @@
+# ninja log v5
+251	1588	1740858030511256555	CMakeFiles/HexBinCharEditor.dir/main.cpp.o	d8aefef95401dcc9
+1779	2008	1740858030942085265	HexBinCharEditor	a8cc0c1fc080ecde
+251	1778	1740858030710655244	CMakeFiles/HexBinCharEditor.dir/hexbinchareditor.cpp.o	662e24fe424629b0
+250	1612	1740858030533803934	CMakeFiles/HexBinCharEditor.dir/HexBinCharEditor_autogen/mocs_compilation.cpp.o	523d686b660dcf47
+14	250	1740858029182267000	/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/HexBinCharEditor_autogen/timestamp	f7e677e570db97b3
+14	250	1740858029182267000	/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/HexBinCharEditor_autogen/mocs_compilation.cpp	f7e677e570db97b3
+14	250	1740858029182267000	HexBinCharEditor_autogen/mocs_compilation.cpp	f7e677e570db97b3
+14	250	1740858029182267000	HexBinCharEditor_autogen/timestamp	f7e677e570db97b3
+1	201	1740773112411674116	build.ninja	38770233250f0b51
+1	423	1740770912189212992	/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/Editor_autogen/mocs_compilation.cpp	38ed7a7bb59def2f
+424	2148	1740770913914374533	CMakeFiles/Editor.dir/Editor_autogen/mocs_compilation.cpp.o	3c94a25492702668
+424	2190	1740770913956457778	CMakeFiles/Editor.dir/hexbinchareditor.cpp.o	e69322263aa53d22
+1	423	1740770912189212992	Editor_autogen/timestamp	38ed7a7bb59def2f
+1	423	1740770912189212992	Editor_autogen/mocs_compilation.cpp	38ed7a7bb59def2f
+2221	2463	1740770914231892005	Editor.app/Contents/MacOS/Editor	2d9bea6fb041af06
+424	1948	1740770913707112475	CMakeFiles/Editor.dir/mainwindow.cpp.o	39ca767660a4d40c
+424	2221	1740770913986775293	CMakeFiles/Editor.dir/main.cpp.o	271aafeda1e727c0
+1	423	1740770912189212992	/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/Editor_autogen/timestamp	38ed7a7bb59def2f
+5	180	1740858548337311000	HexBinCharEditor_autogen/timestamp	f7e677e570db97b3
+5	180	1740858548337311000	HexBinCharEditor_autogen/mocs_compilation.cpp	f7e677e570db97b3
+5	180	1740858548337311000	/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/HexBinCharEditor_autogen/timestamp	f7e677e570db97b3
+5	180	1740858548337311000	/Users/dennis/git/Editor/build/Qt_6_7_0_for_macOS-Debug/HexBinCharEditor_autogen/mocs_compilation.cpp	f7e677e570db97b3
+181	1539	1740858549692671154	CMakeFiles/HexBinCharEditor.dir/main.cpp.o	d8aefef95401dcc9
+181	1559	1740858549716840340	CMakeFiles/HexBinCharEditor.dir/HexBinCharEditor_autogen/mocs_compilation.cpp.o	523d686b660dcf47
+181	1680	1740858549839569792	CMakeFiles/HexBinCharEditor.dir/hexbinchareditor.cpp.o	662e24fe424629b0
+1681	1935	1740858550096702389	HexBinCharEditor	a8cc0c1fc080ecde
