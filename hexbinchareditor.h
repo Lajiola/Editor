@@ -7,7 +7,7 @@
 #include <QLabel>
 #include <QStatusBar>
 
-#define VERSION "1.0.0"
+#define VERSION "1.0.2"
 #define WINDOW_WIDTH 1400
 #define WINDOW_HEIGHT 800
 #define SIDE_PANEL_WIDTH 150
